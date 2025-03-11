@@ -5,7 +5,7 @@ Sovellus on toteutettu **englanniksi**, ja se koostuu **front-endista (käyttöl
 
 
 
-## README Repository-linkit
+## README Repository-linkki
 - **Frontend:** [https://github.com/SHEEPLAND/Diary-FE-2025](https://github.com/SHEEPLAND/Diary-FE-2025)
 
 
